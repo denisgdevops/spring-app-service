@@ -1,0 +1,43 @@
+# Compiled class file
+target/
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled Java bytecode
+*.class
+
+# Dependency directories
+lib/
+bin/
+build/
+
+# Spring Boot specific
+*.log
+spring-boot-starter-logging/
+
+# Docker specific
+docker-images/
+
+# Maven specific
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse specific
+.settings/
+.project
+.classpath
+
+# Gradle specific
+.gradle/
+build/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
